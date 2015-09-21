@@ -1,0 +1,6 @@
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\HTTPServerTrialExam\bin\Debug\HTTPServerTrialExam.exe.config
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\HTTPServerTrialExam\bin\Debug\HTTPServerTrialExam.exe
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\HTTPServerTrialExam\bin\Debug\HTTPServerTrialExam.pdb
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\HTTPServerTrialExam\obj\Debug\HTTPServerTrialExam.csprojResolveAssemblyReference.cache
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\HTTPServerTrialExam\obj\Debug\HTTPServerTrialExam.exe
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\HTTPServerTrialExam\obj\Debug\HTTPServerTrialExam.pdb

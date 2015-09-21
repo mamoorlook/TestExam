@@ -1,0 +1,6 @@
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\TCPServer\bin\Debug\TCPServer.exe.config
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\TCPServer\bin\Debug\TCPServer.exe
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\TCPServer\bin\Debug\TCPServer.pdb
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\TCPServer\obj\Debug\TCPServer.exe
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\TCPServer\obj\Debug\TCPServer.pdb
+c:\users\bruno damjanovic\documents\visual studio 2015\Projects\HTTPServerTrialExam\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
